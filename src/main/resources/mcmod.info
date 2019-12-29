@@ -1,0 +1,16 @@
+[
+{
+  "modid": "animagrowth",
+  "name": "AnimaGrowth",
+  "description": "A compat plugin for Animania and Growthcraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["VonZeeple"],
+  "credits": "Von Zeeple",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
